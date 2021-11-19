@@ -1,1 +1,3 @@
 # Write a short description how one should test the changes in this PR
+
+# Does this require any manual changes when deployed? If yes, why and what?

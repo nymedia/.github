@@ -33,6 +33,10 @@ If your task is to set a field upon updating a node, and you just altered the co
 - [ ] Yes, I manually tested my changes
 - [ ] No I did not manually test my changes (please specify why)
 
+### List steps taken for own manual testing
+
+Please fill in here
+
 ### Did you manually test the change in another project's repository?
 
 Only applicable if this PR is towards a module repository used on several projects. Please also specify which projects you have tested it on. If you need info on which projects are using this module, ask someone. Please also indicate which repository you tested on.

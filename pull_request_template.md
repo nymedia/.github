@@ -20,6 +20,7 @@ The goal should always be to not have any manual deployment steps. If you can fo
 </details>
 
 - [ ] Yes, this requires manual deployment
+- [ ] Not, this does not require manual deployment
 
 ### Did you manually test the change?
 
@@ -30,12 +31,15 @@ If your task is to set a field upon updating a node, and you just altered the co
 </details>
 
 - [ ] Yes, I manually tested my changes
+- [ ] No I did not manually test my changes (please specify why)
 
 ### Did you manually test the change in another project's repository?
 
 Only applicable if this PR is towards a module repository used on several projects. Please also specify which projects you have tested it on. If you need info on which projects are using this module, ask someone. Please also indicate which repository you tested on.
 
 - [ ] Yes indeed. I tested the change on another repository.
+- [ ] No I did not
+- [ ] Not relevant
 
 Which repository?
 n/a.

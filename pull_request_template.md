@@ -57,3 +57,5 @@ One such recipe would be to list the steps to deploy this branch locally, and th
 - The node should now have changed in some way.
 
 </details>
+
+If you have suggestions for how this Pull Request Template can be better, please create an issue (or a pull request) on [https://github.com/nymedia/.github](https://github.com/nymedia/.github)

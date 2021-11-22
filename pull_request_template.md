@@ -1,8 +1,8 @@
 ## Ny Media Pull Request Checklist (NMPRC)
 
 ### Did you use the correct branch based on rules below?
-- [ ]If this is part of multi-PR effort - choose correct feature branch
-- [ ]If this is a one-PR change (bug fix or feature) use current branch
+- [ ] If this is part of multi-PR effort - choose correct feature branch
+- [ ] If this is a one-PR change (bug fix or feature) use current branch
 
 ### Does it require manual deployment? List manual deployment steps in the "Additional info" section below
 
@@ -18,7 +18,7 @@ Examples could be
 The goal should always be to not have any manual deployment steps. If you can for example create a node in an update hook instead, that is always much better.
 </details>
 
-[ ] Yes, this requires manual deployment
+- [ ] Yes, this requires manual deployment
 
 ### Did you manually test the change?
 
@@ -28,13 +28,13 @@ The goal should always be to not have any manual deployment steps. If you can fo
 If your task is to set a field upon updating a node, and you just altered the code so that it looks correct, please also make sure you try to actually save a node. Maybe you want to save a couple of different node types even.
 </details>
 
-[ ] Yes, I manually tested my changes
+- [ ] Yes, I manually tested my changes
 
 ### Did you manually test the change in another project's repository?
 
 Only applicable if this PR is towards a module repository used on several projects. Please also specify which projects you have tested it on. If you need info on which projects are using this module, ask someone. Please also indicate which repository you tested on.
 
-[ ] Yes indeed. I tested the change on another repository.
+- [ ] Yes indeed. I tested the change on another repository.
 
 Which repository?
 n/a.

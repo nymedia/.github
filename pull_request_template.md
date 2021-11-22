@@ -1,5 +1,6 @@
 ## Ny Media Pull Request Checklist (NMPRC)
 
+
 ### Did you use the correct branch based on rules below?
 - [ ] If this is part of multi-PR effort - choose correct feature branch
 - [ ] If this is a one-PR change (bug fix or feature) use current branch
@@ -56,3 +57,5 @@ One such recipe would be to list the steps to deploy this branch locally, and th
 - The node should now have changed in some way.
 
 </details>
+
+If you have suggestions for how this Pull Request Template can be better, please create an issue (or a pull request) on [https://github.com/nymedia/.github](https://github.com/nymedia/.github)

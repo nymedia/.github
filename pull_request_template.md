@@ -1,6 +1,6 @@
 ## Ny Media Pull Request Checklist (NMPRC)
 
-### Are all code, documentation, and commits are in English?
+### Are all code, documentation, and commits in English?
 - [ ] Yes, I have looked through the changes and find no traces of non-english.
 - [ ] Some parts are not in english (please specify reason)
 

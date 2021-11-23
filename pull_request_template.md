@@ -1,4 +1,4 @@
-## What is the objective of this PR - can be a link to the issue or direct quote.
+## What is the objective of this PR.
 <!-- Are there any links to specifications, references from correspondances or similar that is relevant? Please add them here. -->
 
 ## List steps taken for own manual testing

@@ -17,7 +17,7 @@
 - [ ] Yes, they are updated
 - [ ] No, they are not updated (please specify why not)
 
-# Does the change include all translations for new strings?
+### Does the change include all translations for new strings?
 - [ ] Yes, all strings are exported and translated.
 - [ ] No, not all strings are translated or can not be translated (please specify why)
 - [ ] Not relevant

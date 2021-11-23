@@ -1,5 +1,26 @@
 ## Ny Media Pull Request Checklist (NMPRC)
 
+### Are all code, documentation, and commits in English?
+- [ ] Yes, I have looked through the changes and find no traces of non-english.
+- [ ] Some parts are not in english (please specify reason)
+
+### Does the changes add any sensitive information?
+- [ ] No, no sensitive information in here.
+- [ ] Some sensitive information in this PR (please specify what, and why)
+
+### Does the changes introduce fields or otherwise make it possible to store new sensitive information?
+- [ ] No, not sensitive or not relevant
+- [ ] This makes it possible to store sensitive information
+
+### If the change introduces storing sensitive information, are sanitization rules updated for it?
+- [ ] No relevant
+- [ ] Yes, they are updated
+- [ ] No, they are not updated (please specify why not)
+
+### Does the change include all translations for new strings?
+- [ ] Yes, all strings are exported and translated.
+- [ ] No, not all strings are translated or can not be translated (please specify why)
+- [ ] Not relevant
 
 ### Did you use the correct branch based on rules below?
 - [ ] If this is part of multi-PR effort - choose correct feature branch

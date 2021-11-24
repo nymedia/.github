@@ -12,9 +12,9 @@
 
 ## Ny Media Pull Request Checklist (NMPRC)
 
-- [ ] Did you use the [correct branch](pull_request_template_explained.md#branching)?
-- [ ] Does it require [manual deployment](pull_request_template_explained.md#manual-deployment)?
-- [ ] Did you [manually test](pull_request_template_explained.md#manual-testing) the change?
-- [ ] Did you manually test the change in [another project's repository](pull_request_template_explained.md#manual-testing)?
+- [ ] Did you use the [correct branch](https://github.com/nymedia/.github/blob/master/pull_request_template_explained.md#branching)?
+- [ ] Does it require [manual deployment](https://github.com/nymedia/.github/blob/master/pull_request_template_explained.md#manual-deployment)?
+- [ ] Did you [manually test](https://github.com/nymedia/.github/blob/master/pull_request_template_explained.md#manual-testing) the change?
+- [ ] Did you manually test the change in [another project's repository](https://github.com/nymedia/.github/blob/master/pull_request_template_explained.md#manual-testing)?
 
 If you have suggestions for how this Pull Request Template can be better, please create an issue (or a pull request) on [https://github.com/nymedia/.github](https://github.com/nymedia/.github)

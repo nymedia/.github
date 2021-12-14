@@ -16,5 +16,9 @@
 - [ ] Does it require [manual deployment](https://github.com/nymedia/.github/blob/master/pull_request_template_explained.md#manual-deployment)?
 - [ ] Did you [manually test](https://github.com/nymedia/.github/blob/master/pull_request_template_explained.md#manual-testing) the change?
 - [ ] Did you manually test the change in [another project's repository](https://github.com/nymedia/.github/blob/master/pull_request_template_explained.md#manual-testing)?
+- [ ] Did you make sure the PR does not include any sensitive information?
+- [ ] Did you make sure documentation have been updated, if needed?
+- [ ] Did you include all necessary translations, if any?
+- [ ] Did you make sure to update sanitization routines if fields for storing personal information are added?
 
 If you have suggestions for how this Pull Request Template can be better, please create an issue (or a pull request) on [https://github.com/nymedia/.github](https://github.com/nymedia/.github)

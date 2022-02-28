@@ -12,7 +12,7 @@
 
 ## Ny Media Pull Request Checklist (NMPRC)
 
-- [ ] Did you use the [correct branch](https://github.com/nymedia/.github/blob/master/pull_request_template_explained.md#branching)?
+- [ ] Did you create the pull request to be merged into the [correct branch](https://github.com/nymedia/.github/blob/master/pull_request_template_explained.md#branching)?
 - [ ] Is it possible to deploy automatically? If it requires [manual deployment](https://github.com/nymedia/.github/blob/master/pull_request_template_explained.md#manual-deployment), did you include the steps needed to deploy?
 - [ ] Did you [manually test](https://github.com/nymedia/.github/blob/master/pull_request_template_explained.md#manual-testing) the change?
 - [ ] Is it either irrelevant to test in another repository, or did you manually test the change in [another project's repository](https://github.com/nymedia/.github/blob/master/pull_request_template_explained.md#manual-testing)?

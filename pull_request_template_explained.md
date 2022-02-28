@@ -2,7 +2,7 @@
 
 ## Branching
 - If your PR is part of multi-PR effort - choose correct feature branch
-- If your PR is one-PR change (bug fix or feature) use latest branch
+- If your PR is one-PR change (bug fix or feature) use latest branch. This will usually be `develop`.
 
 ## Manual deployment
 

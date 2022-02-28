@@ -12,10 +12,10 @@
 
 ## Ny Media Pull Request Checklist (NMPRC)
 
-- [ ] Did you create the pull request to be merged into the [correct branch](https://github.com/nymedia/.github/blob/master/pull_request_template_explained.md#branching)?
+- [ ] Did you create the pull request to be merged into the [correct target branch](https://github.com/nymedia/.github/blob/master/pull_request_template_explained.md#branching)?
 - [ ] Is it possible to deploy automatically? If it requires [manual deployment](https://github.com/nymedia/.github/blob/master/pull_request_template_explained.md#manual-deployment), did you include the steps needed to deploy?
 - [ ] Did you [manually test](https://github.com/nymedia/.github/blob/master/pull_request_template_explained.md#manual-testing) the change?
-- [ ] Is it either irrelevant to test in another repository, or did you manually test the change in [another project's repository](https://github.com/nymedia/.github/blob/master/pull_request_template_explained.md#manual-testing)?
+- [ ] Is the change to a module that only affects this project? If the change is to a module shared across projects, did you manually test the change in [another project's repository](https://github.com/nymedia/.github/blob/master/pull_request_template_explained.md#manual-testing)?
 - [ ] Did you make sure documentation have been updated, if needed?
 - [ ] Did you include all necessary translations, if any?
 - [ ] Did you make sure to update sanitization routines if fields for storing personal information are added?

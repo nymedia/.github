@@ -20,6 +20,6 @@ The goal should always be to not have any manual deployment steps. If you can fo
 
 What does manual testing mean?
 
-If your task is to set a field upon updating a node, and you just altered the code so that it looks correct, please also make sure you try to actually save a node. Maybe you want to save a couple of different node types even.
+If your task is to set a field upon updating a node, and you just altered the code so that it looks correct, please also make sure you try to actually save a node. Maybe you event want to try and save a couple of different node types.
 
 If PR is towards a module repository used on several projects, please also specify which projects you have tested it on. If you need info on which projects are using this module, ask someone. Please also indicate which repository you tested on.
